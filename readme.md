@@ -21,4 +21,4 @@ UID is (for v1): PL000014
 https://certification.oshwa.org/pl000014.html
 
 ## Photos
-![Screenshot](Pi4GPU_2022-12-03_1.png)
+![Screenshot](Pi4GPU_v2_2023-04-13_1.png)
