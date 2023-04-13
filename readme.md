@@ -4,7 +4,18 @@ Raspberry Pi CM4 carrier board for testing GPU cards
 
 ## Description
 
-TBD
+Dedicated carrier board for Raspberry Pi CM4 module (and compatible models) for testing high-performance GPU cards, enclosed in the standard PCIe form factor card.
+
+Technical specification:
+- ports: HDMI, 1GbE RJ45, 2x USB 2.0 host (Type A);
+- power supply inputs: 12VDC DC barrel jack or 6-pin Molex (8A max.);
+- microSD slot for CM4 Lite module;
+- full 40-pin GPIO pin header;
+- 4-pin fan socket (controlled by EMC2301) - 5/12V version supported;
+- USB-C for flashing CM4 module;
+- system and user LEDs;
+- PCIe x4 edge connector (PCIe x1 lane only implemented);
+- I2C diagnostics module for analog measurements (system power rails, 3.3V/5V/12V, voltage/current);
 
 ## License
 
