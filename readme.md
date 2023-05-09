@@ -40,8 +40,11 @@ https://certification.oshwa.org/pl000016.html
 ## Press release
 
 [Jeff Geerling Blog] (https://www.jeffgeerling.com/blog/2023/i-built-special-pcie-card-test-gpus-on-pi)
+
 [Jeff Geerling video review] (https://www.youtube.com/watch?v=l9dItRUjQ0k)
+
 [Hackster.io] (https://www.hackster.io/news/jeff-geerling-s-pig-makes-it-easier-to-experiment-with-pcie-add-in-boards-on-the-raspberry-pi-cm4-fdb977047521)
+
 
 ## Photos
 ![Screenshot](pictures/Pi4GPU_v2_2023-04-13_1.png)
